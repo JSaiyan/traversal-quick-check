@@ -8,7 +8,8 @@ import java.io.PrintStream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class QuickCheckTest {
+public class QuickCheckTest 
+{
 
   // We will capture System.out in these tests to verify output of print methods
   // You do not need to memorize how to do this, but look at it with curiosity!
